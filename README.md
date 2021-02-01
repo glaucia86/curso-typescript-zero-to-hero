@@ -1,7 +1,20 @@
-# Curso: TypeScript - Zero to Hero
+# Curso TypeScript - Zero to Hero
 
 Repositório responsável pelo Curso de TypeScript - Zero to Hero!
 
+Todo o treinamento foi elaborado pela Comunidade para a Comunidade! Assim sendo, distribuindo o conhecimento de maneira totalmente gratuita a todas as Pessoas Desenvolvedoras.
+
+Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**! Pois, não existe melhor lugar para estudar e entender uma determinada stack ou linguagem: documentação oficial!
+
+
+## 🏃 Colaboradores
+
+Nesse projeto que estamos desenvolvendo para toda a Comunidade Técnica Brasileira, está sendo desenvolvida por:
+
+- **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)** 
+- **[Lucas Santos](https://twitter.com/_StaticVoid)**
+
+Mas, qualquer pessoa da Comunidade que deseja fazer parte desse projeto, nos auxiliando de alguma forma, entre em contato conosco, via DM's das nossas contas do Twitter, que será um prazer ter todos(as) vocês! Pois, acreditamos que, a união de toda a Comunidade é fundamental no compartilhamento de conhecimento!
 
 ## 🚀 Recursos Utilizados 
 
