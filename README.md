@@ -6,7 +6,6 @@ Todo o treinamento foi elaborado pela Comunidade para a Comunidade! Assim sendo,
 
 Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**! Pois, não existe melhor lugar para estudar e entender uma determinada stack ou linguagem: documentação oficial!
 
-
 ## 🏃 Colaboradores
 
 Nesse projeto que estamos desenvolvendo para toda a Comunidade Técnica Brasileira, está sendo desenvolvida por:
@@ -34,52 +33,37 @@ Os vídeos estarão sendo lançados por semana, de acordo com a demanda através
 - 1.1 - O que é TypeScript? 
 - 1.2 - Conhecendo o Playground do TypeScript 
 - 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript 
-- 1.4 - Instalando o Visual Studio Code e suas Extensões 
-- 1.5 - Criando o nosso primeiro programa no Typescript – Hello World 
+- 1.4 - Entendendo um pouco mais o arquivo tsconfig.json 
+- 1.5 - Instalando o Visual Studio Code e suas Extensões 
+- 1.6 - Criando o nosso primeiro programa no Typescript – Hello World 
     - Demo 1.5 - Primeiro Programa em TypeScript – Hello World 
-- 1.6 - E por que usar o TypeScript? 
+- 1.7 - E por que usar o TypeScript? 
 </details>
 
 <details><summary><b>Módulo 2: Tipos Básicos  </b></summary>
 
-- 2.1 - Type Annotation 
-    - Demo 2.1  
-- 2.2 - Number 
-    - Demo 2.2 
-- 2.3 - Boolean 
-    - Demo 2.3 
-- 2.4 - String 
-    - Demo 2.4 
-- 2.5 - Array 
+2.1 - Type Annotation 
+
+Demo 2.1  
+
+- 2.2 - Tipos Básicos - Parte I 
+    - Boolean 
+    - Number 
+    - String 
+    - Array  
+    - Tuple 
+- 2.3 - Tipos Básicos - Parte II 
+    - Enum 
+    - Unknown 
+    - Any 
+    - Void 
+    - Null and Undefined 
+- 2.4 - Tipos Básicos - Parte III 
+    - Never 
+    - Object 
+    - Type Assertions 
+- 2.5 - Algumas observações do uso do ‘let’ 
     - Demo 2.5 
-- 2.6 - Tuple 
-    - Demo 2.6 
-- 2.7 - Enum 
-    - Demo 2.7  
-- 2.8 - Unknown 
-    - Demo 2.8 
-- 2.9 - Any 
-    - Demo 2.9 
-- 2.10 - Void 
-    - Demo 2.10 
-- 2.11 - Null and Undefined 
-    - Demo 2.11 
-- 2.12 - Never 
-    - Demo 2.12 
-- 2.13 - Object 
-    - Demo 2.13 
-- 2.14 - Union Types 
-    - Demo 2.14 
-- 2.15 - Type Aliases 
-    - Demo 2.15 
-- 2.16 - String Literals 
-    - Demo 2.16 
-- 2.17 - Type Inference 
-    - Demo 2.17 
-- 2.18 - Type Assertions 
-    - Demo 2.18 
-- 2.19 - Algumas observações do uso do ‘let’ 
-    - Demo 2.19 
 </details>
 
 <details><summary><b>Módulo 3: Fluxos de Controle</b></summary>
