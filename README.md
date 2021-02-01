@@ -1,6 +1,6 @@
 # Curso: TypeScript - Zero to Hero
 
-Repositório responsável pelo Curso de TypeScript - Zero to Hero
+Repositório responsável pelo Curso de TypeScript - Zero to Hero!
 
 
 ## 🚀 Recursos Utilizados 
@@ -203,3 +203,18 @@ Os vídeos estarão sendo lançados por semana, de acordo com a demanda através
     - Demo 10.1 
 - 10.2 - Workshop – Criando uma API usando TypeScript & Azure Functions (Serverless) persistindo no Azure CosmosDB 
 </details>
+
+## ❗️ Links & Recursos Importantes
+
+- ✅ **[Documentação Oficial do TypeScript](http://typescriptlang.org/docs/handbook/)**
+- ✅ **[TypeScript no Visual Studio Code](https://code.visualstudio.com/docs/languages/typescript?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Compilando Códigos TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-compiling?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Tutorial TypeScript no Vs Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Azure Functions com TypeScript](https://docs.microsoft.com/azure/azure-functions/create-first-function-vs-code-typescript?WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Curso Grátis de Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-14034-gllemos)**
+
+## ❓ Tenho Dúvidas... O que Faço?! 
+
+Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/curso-typescript-zero-to-hero/issues)**. Assim que possível, estaremos respondendo a todas as dúvidas que tiverem!
+
+**(documentação em desenvolvimento)**
