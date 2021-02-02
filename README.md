@@ -1,6 +1,8 @@
 # Curso TypeScript - Zero to Hero
 
-[![ts-curso.gif](https://i.postimg.cc/VNs5QNqH/ts-curso.gif)](https://postimg.cc/k2Z7Wqhx)
+<p align="center">
+  <img src="./media/tscurso.gif" alt="Catsify App" width="100%">
+</p>
 
 Repositório responsável pelo Curso de TypeScript - Zero to Hero!
 
