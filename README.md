@@ -1,17 +1,28 @@
 # Curso TypeScript - Zero to Hero
 
+[![ts-curso.gif](https://i.postimg.cc/VNs5QNqH/ts-curso.gif)](https://postimg.cc/k2Z7Wqhx)
+
 Repositório responsável pelo Curso de TypeScript - Zero to Hero!
 
 Todo o treinamento foi elaborado pela Comunidade para a Comunidade! Assim sendo, distribuindo o conhecimento de maneira totalmente gratuita a todas as Pessoas Desenvolvedoras.
 
 Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)**! Pois, não existe melhor lugar para estudar e entender uma determinada stack ou linguagem: documentação oficial!
 
+## 📌 Pré-Requisitos
+
+Para a realização desse curso, se faz necessário já possuir conhecimento prévio em JavaScript e Node.Js
+
+Caso não tenha, estamos disponibilizando abaixo, alguns treinamentos prévios, antes de começar a estudar o Curso de TypeScript - Zero to Hero
+
+* ✅ **[Curso Grátis JavaScript - Beginner Series](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=javascript-14034-gllemos)**
+* ✅ **[Curso Grátis Node.Js - Microsoft Learn](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-14034-gllemos)**
+* ✅ **[Curso Grátis Node.Js [Vídeo]](https://channel9.msdn.com/Series/Beginners-Series-to-NodeJS?WT.mc_id=javascript-14034-gllemos)**
+
 ## 🏃 Colaboradores
 
 Nesse projeto que estamos desenvolvendo para toda a Comunidade Técnica Brasileira, está sendo desenvolvida por:
 
 - **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)** 
-- **[Lucas Santos](https://twitter.com/_StaticVoid)**
 
 Mas, qualquer pessoa da Comunidade que deseja fazer parte desse projeto, nos auxiliando de alguma forma, entre em contato conosco, via DM's das nossas contas do Twitter, que será um prazer ter todos(as) vocês! Pois, acreditamos que, a união de toda a Comunidade é fundamental no compartilhamento de conhecimento!
 
@@ -25,6 +36,12 @@ Mas, qualquer pessoa da Comunidade que deseja fazer parte desse projeto, nos aux
 ## 💻 Série de Vídeos 
 
 Os vídeos estarão sendo lançados por semana, de acordo com a demanda através no meu **[Canal do Youtube](https://bit.ly/youtube-canal-glaucialemos)**.
+
+## Quando será o Lançamento?
+
+O lançamento dos primeiros vídeos sairão no dia 01/03/2021!
+E semanalmente estaremos lançando os vídeos aos poucos. Uma vez que o conteúdo é extremamente condensado e existe toda a questão de gravação e edição.
+Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novos vídeos semanalmente!
 
 ## ✏️ Ementa do Curso
 
@@ -42,10 +59,8 @@ Os vídeos estarão sendo lançados por semana, de acordo com a demanda através
 
 <details><summary><b>Módulo 2: Tipos Básicos  </b></summary>
 
-2.1 - Type Annotation 
-
-Demo 2.1  
-
+- 2.1 - Type Annotation 
+    - Demo 2.1  
 - 2.2 - Tipos Básicos - Parte I 
     - Boolean 
     - Number 
