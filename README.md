@@ -26,7 +26,7 @@ Nesse projeto que estamos desenvolvendo para toda a Comunidade Técnica Brasilei
 
 - **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)** 
 
-Mas, qualquer pessoa da Comunidade que deseja fazer parte desse projeto, nos auxiliando de alguma forma, entre em contato conosco, via DM's das nossas contas do Twitter, que será um prazer ter todos(as) vocês! Pois, acreditamos que, a união de toda a Comunidade é fundamental no compartilhamento de conhecimento!
+Porém, qualquer pessoa da Comunidade que deseja fazer parte desse projeto, nos auxiliando de alguma forma, entre em contato conosco, via DM's das nossas contas do Twitter: **[AQUI](https://twitter.com/glaucia_lemos86)**, que será um prazer em ter todos(as) vocês! Pois, acreditamos que, a união de toda a Comunidade é fundamental no compartilhamento de conhecimento!
 
 ## 🚀 Recursos Utilizados 
 
@@ -37,9 +37,9 @@ Mas, qualquer pessoa da Comunidade que deseja fazer parte desse projeto, nos aux
 
 ## 💻 Série de Vídeos 
 
-Os vídeos estarão sendo lançados por semana, de acordo com a demanda através no meu **[Canal do Youtube](https://bit.ly/youtube-canal-glaucialemos)**.
+Os vídeos serão lançados semanalmente, de acordo com a demanda através do meu **[Canal do Youtube](https://bit.ly/youtube-canal-glaucialemos)**.
 
-## Quando será o Lançamento?
+## Quando será o Lançamento desse Curso?
 
 O lançamento dos primeiros vídeos sairão no dia 01/03/2021!
 E semanalmente estaremos lançando os vídeos aos poucos. Uma vez que o conteúdo é extremamente condensado e existe toda a questão de gravação e edição.
