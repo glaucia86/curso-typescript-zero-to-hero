@@ -55,8 +55,8 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 - 1.4 - Entendendo um pouco mais o arquivo tsconfig.json 
 - 1.5 - Instalando o Visual Studio Code e suas Extensões 
 - 1.6 - Criando o nosso primeiro programa no Typescript – Hello World 
-    - Demo 1.5 - Primeiro Programa em TypeScript – Hello World 
-- 1.7 - E por que usar o TypeScript? 
+    - 1.7 - Demo: Primeiro Programa em TypeScript – Hello World 
+- 1.8 - E por que usar o TypeScript? 
 </details>
 
 <details><summary><b>Módulo 2: Tipos Básicos  </b></summary>
