@@ -54,9 +54,8 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 - 1.2 - Conhecendo o Playground do TypeScript 
 - 1.3 - Preparando o Ambiente de Desenvolvimento para o TypeScript 
 - 1.4 - Entendendo um pouco mais o arquivo tsconfig.json 
-- 1.5 - Criando o nosso primeiro programa no Typescript – Hello World 
-    - 1.6 - Demo: Primeiro Programa em TypeScript – Hello World 
-- 1.7 - E por que usar o TypeScript? 
+- 1.5 - Demo: Primeiro Programa em TypeScript – Hello World  
+- 1.6 - E por que usar o TypeScript? E, próximos passos! 
 </details>
 
 <details><summary><b>Módulo 2: Tipos Básicos  </b></summary>
