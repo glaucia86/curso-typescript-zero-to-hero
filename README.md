@@ -58,16 +58,23 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 - 1.6 - E por que usar o TypeScript? E, próximos passos! 
 </details>
 
-<details><summary><b>Módulo 2: Tipos Básicos  </b></summary>
+<details><summary><b>Módulo 2: Tipos Básicos</b></summary>
 
 - 2.1 - Type Annotation 
     - Demo 2.1  
-- 2.2 - Tipos Básicos - Parte I 
-    - Boolean 
-    - Number 
-    - String 
-    - Array  
-    - Tuple 
+- 2.2 - Boolean
+    - Demo 2.2
+- 2.3 - Number
+    - Demo 2.3
+- 2.4 - Boolean
+    - Demo 2.4
+- 2.5 - String
+    - - Demo 2.5
+- 2.6 - Array
+    - Demo 2.6
+- 2.7 - Tuple
+    - Demo 2.7
+ 
 - 2.3 - Tipos Básicos - Parte II 
     - Enum 
     - Unknown 
