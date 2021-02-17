@@ -67,7 +67,7 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 - 2.3 - Number
     - Demo 2.3
 - 2.4 - String
-    - - Demo 2.4
+    - Demo 2.4
 - 2.5 - Array
     - Demo 2.5
 - 2.6 - Tuple
@@ -83,7 +83,7 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 - 2.11 - Null and Undefined 
     - Demo 2.11
 - 2.12 - Never 
-    - Demo 2.11
+    - Demo 2.12
 - 2.13 - Object 
     - Demo 2.13
 - 2.14 - Algumas observações do uso do ‘let’  
