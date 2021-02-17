@@ -66,27 +66,28 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
     - Demo 2.2
 - 2.3 - Number
     - Demo 2.3
-- 2.4 - Boolean
-    - Demo 2.4
-- 2.5 - String
-    - - Demo 2.5
-- 2.6 - Array
+- 2.4 - String
+    - - Demo 2.4
+- 2.5 - Array
+    - Demo 2.5
+- 2.6 - Tuple
     - Demo 2.6
-- 2.7 - Tuple
+- 2.7 - Enum
     - Demo 2.7
- 
-- 2.3 - Tipos Básicos - Parte II 
-    - Enum 
-    - Unknown 
-    - Any 
-    - Void 
-    - Null and Undefined 
-- 2.4 - Tipos Básicos - Parte III 
-    - Never 
-    - Object 
-    - Type Assertions 
-- 2.5 - Algumas observações do uso do ‘let’ 
-    - Demo 2.5 
+- 2.8 - Unknown
+    - Demo 2.8
+- 2.9 - Any
+    - Demo 2.9
+- 2.10 - Void
+    - Demo 2.10
+- 2.11 - Null and Undefined 
+    - Demo 2.11
+- 2.12 - Never 
+    - Demo 2.11
+- 2.13 - Object 
+    - Demo 2.13
+- 2.14 - Algumas observações do uso do ‘let’  
+    - Demo 2.14
 </details>
 
 <details><summary><b>Módulo 3: Fluxos de Controle</b></summary>
