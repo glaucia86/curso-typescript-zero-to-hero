@@ -1,3 +1,4 @@
+"use strict";
 /**
  * arquivo: booleanType.ts
  * descrição: arquivo responsável por ensinar conceitos básicos sobre 'Tipo Boolean'
@@ -6,21 +7,16 @@
  * doc referência: https://www.typescriptlang.org/docs/handbook/basic-types.html#boolean
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B -> tsc: build/watch
  */
-
 // ==> Exemplo 01
-
-let tarefaConcluida: boolean = true;
-let tarefaPendente: boolean = false;
-
+let tarefaConcluida = true;
+let tarefaPendente = false;
 console.log(tarefaConcluida);
-console.log(tarefaPendente)
-
+console.log(tarefaPendente);
 // ==> Exemplo 02
-
-let concluido: boolean = false;
-
+let concluido = false;
 if (concluido) {
     console.log('Tarefa foi concluída com sucesso!');
-} else {
+}
+else {
     console.log('Tarefa Pendente!');
 }
