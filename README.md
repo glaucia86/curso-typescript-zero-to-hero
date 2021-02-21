@@ -64,7 +64,7 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
     - Demo 2.1  
 - 2.2 - Boolean
     - Demo 2.2
-- 2.3 - Number
+- 2.3 - Number & Bigint
     - Demo 2.3
 - 2.4 - String
     - Demo 2.4
