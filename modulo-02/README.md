@@ -8,7 +8,7 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 |---|---|
 | **[Vídeo 07](https://youtu.be/ocjS96i27zk)** | Vídeo 07 - Type Annotation |
 | **[Vídeo 08](https://youtu.be/BmLMwwWNblI)** | Vídeo 08 - Demo: Type Annotation |
-| **[Vídeo 09]()** | Vídeo 09 - Boolean |
+| **[Vídeo 09](https://youtu.be/y6dgaE-cPhc)** | Vídeo 09 - Boolean |
 | **[Vídeo 10]()** | Vídeo 10 - Demo: Boolean |
 | **[Vídeo 11]()** | Vídeo 11 - Number & Bigint |
 | **[Vídeo 12]()** | Vídeo 12 - Demo: Number & Bigint |
