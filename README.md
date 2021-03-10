@@ -34,7 +34,7 @@ Porém, qualquer pessoa da Comunidade que deseja fazer parte desse projeto, nos 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 * **[Postman](https://www.getpostman.com/)**
-* **[Extensão Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=javascript-14034-gllemos)**
+* **[Extensão Visual Studio Code - Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=javascript-14034-gllemos)**
 
 ## 💻 Série de Vídeos 
 
