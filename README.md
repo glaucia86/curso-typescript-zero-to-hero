@@ -16,6 +16,7 @@ Para a realização desse curso, se faz necessário já possuir conhecimento pr�
 
 Caso não tenha, estamos disponibilizando abaixo, alguns treinamentos prévios, antes de começar a estudar o Curso de TypeScript - Zero to Hero
 
+* ✅ **[Curso Grátis TypeScript - Microsoft Learn](https://docs.microsoft.com/learn/paths/build-javascript-applications-typescript/?WT.mc_id=javascript-23355-gllemos)**
 * ✅ **[Curso Grátis JavaScript - Beginner Series](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=javascript-14034-gllemos)**
 * ✅ **[Curso Grátis Node.Js - Microsoft Learn](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-14034-gllemos)**
 * ✅ **[Curso Grátis Node.Js [Vídeo]](https://channel9.msdn.com/Series/Beginners-Series-to-NodeJS?WT.mc_id=javascript-14034-gllemos)**
