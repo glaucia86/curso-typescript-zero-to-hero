@@ -1,3 +1,4 @@
+"use strict";
 /**
  * arquivo: stringType.ts
  * descrição: arquivo responsável por ensinar conceitos básicos sobre 'Tipo String'
@@ -6,22 +7,14 @@
  * doc referência: https://www.typescriptlang.org/docs/handbook/basic-types.html#boolean
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B -> tsc: build/watch
  */
-
 // ==> Exemplo 01 - Single Quotes
-
-let nomeCompleto: string = 'Glaucia Lemos';
+let nomeCompleto = 'Glaucia Lemos';
 console.log(nomeCompleto);
-
 // ==> Exemplo 02 - Double Quotes
-
-let funcaoEmpresa: string = "Cloud Advocate em JavaScript";
+let funcaoEmpresa = "Cloud Advocate em JavaScript";
 console.log(funcaoEmpresa);
-
 // ==> Exemplo 03 - Back Ticks
-
-let nomeEmpresa: string = 'Microsoft';
-
-let dadosFuncionario: string = `Seja bem-vinda ${nomeCompleto}! Você será ${funcaoEmpresa} 
-    na empresa ${nomeEmpresa}`; 
-
+let nomeEmpresa = 'Microsoft';
+let dadosFuncionario = `Seja bem-vinda ${nomeCompleto}! Você será ${funcaoEmpresa} 
+    na empresa ${nomeEmpresa}`;
 console.log(dadosFuncionario);
