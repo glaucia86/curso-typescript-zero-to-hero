@@ -12,10 +12,10 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 10](https://youtu.be/SkXMjanTPbQ)** | Vídeo 10 - Demo: Boolean |
 | **[Vídeo 11](https://youtu.be/SsQqZPdPJl4)** | Vídeo 11 - Number & Bigint |
 | **[Vídeo 12](https://youtu.be/498uRBCoGf8)** | Vídeo 12 - Demo: Number & Bigint |
-| **[Vídeo 13]()** | Vídeo 13 - String |
-| **[Vídeo 14]()** | Vídeo 14 - Demo: String |
-| **[Vídeo 15]()** | Vídeo 15 - Array |
-| **[Vídeo 16]()** | Vídeo 16 - Demo: Array |
+| **[Vídeo 13](https://youtu.be/0LpB1I8YPnA)** | Vídeo 13 - String |
+| **[Vídeo 14](https://youtu.be/Le9jY9AdWbI)** | Vídeo 14 - Demo: String |
+| **[Vídeo 15](https://youtu.be/IzEpibKEtg4)** | Vídeo 15 - Array |
+| **[Vídeo 16](https://youtu.be/P1ZALg3mKtA)** | Vídeo 16 - Demo: Array |
 | **[Vídeo 17]()** | Vídeo 17 - Tuple |
 | **[Vídeo 18]()** | Vídeo 18 - Demo: Tuple |
 | **[Vídeo 19]()** | Vídeo 19 - Enum |
