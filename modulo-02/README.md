@@ -16,8 +16,9 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 14](https://youtu.be/Le9jY9AdWbI)** | Vídeo 14 - Demo: String |
 | **[Vídeo 15](https://youtu.be/IzEpibKEtg4)** | Vídeo 15 - Array |
 | **[Vídeo 16](https://youtu.be/P1ZALg3mKtA)** | Vídeo 16 - Demo: Array |
-| **[Vídeo 17]()** | Vídeo 17 - Tuple |
-| **[Vídeo 18]()** | Vídeo 18 - Demo: Tuple |
+| **[Vídeo 17](https://youtu.be/APecrHh9K7E)** | Vídeo 17 - Tuple |
+| **[Vídeo 18](https://youtu.be/Hz1mB0YwDWU)** | Vídeo 18 - Demo: Tuple - Parte 01 |
+| **[Vídeo 18.1](https://youtu.be/0_61ggJ_yzY)** | Vídeo 18 - Demo: Tuple - Parte 02 |
 | **[Vídeo 19]()** | Vídeo 19 - Enum |
 | **[Vídeo 20]()** | Vídeo 20 - Demo: Enum |
 | **[Vídeo 21]()** | Vídeo 21 - Unknown |
