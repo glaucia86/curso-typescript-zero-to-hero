@@ -12,7 +12,7 @@ Toda a emenda do treinamento, foi baseada na **[Documentação oficial do TypeSc
 
 ## ☕ Apoie e Ajude esse Projeto! 
 
-Se você curte ou curtiu os vídeos feitos desse curso e deseja apoiar com um valor de um Cafezinho Brasileiro, então sinta-se à vontade em fazer o seu donation no botão abaixo:
+Se você curte os vídeos e conteúdos feitos desse curso e deseja apoiar com um valor de um Cafezinho Brasileiro (R$ 3.40), então sinta-se à vontade em fazer o seu donation no botão abaixo:
 
 <a href='https://ko-fi.com/I3I644UCW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
