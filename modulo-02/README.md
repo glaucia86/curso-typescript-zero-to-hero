@@ -21,10 +21,10 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 18.1](https://youtu.be/0_61ggJ_yzY)** | Vídeo 18 - Demo: Tuple - Parte 02                    |
 | **[Vídeo 19](https://youtu.be/oBlnDsKloAY)**   | Vídeo 19 - Enum                                      |
 | **[Vídeo 20](https://youtu.be/aU5rKsHyxHk)**   | Vídeo 20 - Demo: Enum                                |
-| **[Vídeo 21]()**                               | Vídeo 21 - Unknown                                   |
-| **[Vídeo 22]()**                               | Vídeo 22 - Demo: Unknown                             |
-| **[Vídeo 23]()**                               | Vídeo 23 - Any                                       |
-| **[Vídeo 24]()**                               | Vídeo 24 - Demo: Any                                 |
+| **[Vídeo 21]()**                               | Vídeo 21 - Any                                       |
+| **[Vídeo 22]()**                               | Vídeo 22 - Demo: Any                                 |
+| **[Vídeo 23]()**                               | Vídeo 23 - Unknown                                   |
+| **[Vídeo 24]()**                               | Vídeo 24 - Demo: Unknown                             |
 | **[Vídeo 25]()**                               | Vídeo 25 - Void                                      |
 | **[Vídeo 26]()**                               | Vídeo 26 - Demo: Void                                |
 | **[Vídeo 27]()**                               | Vídeo 27 - Null and Undefined                        |
