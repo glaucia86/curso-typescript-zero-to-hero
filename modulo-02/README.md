@@ -27,8 +27,8 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 24](https://youtu.be/6XFn4Gny8WU)**   | Vídeo 24 - Demo: Unknown                             |
 | **[Vídeo 25](https://youtu.be/yLraF6_-85U)**   | Vídeo 25 - Void                                      |
 | **[Vídeo 26](https://youtu.be/Aguo_gIIh7o)**   | Vídeo 26 - Demo: Void                                |
-| **[Vídeo 27]()**                               | Vídeo 27 - Null and Undefined                        |
-| **[Vídeo 28]()**                               | Vídeo 28 - Demo: Null and Undefined                  |
+| **[Vídeo 27](https://youtu.be/vyOidIn_YfQ)**   | Vídeo 27 - Null and Undefined                        |
+| **[Vídeo 28](https://youtu.be/3Cx3q9aOf_I)**   | Vídeo 28 - Demo: Null and Undefined                  |
 | **[Vídeo 29]()**                               | Vídeo 29 - Never                                     |
 | **[Vídeo 30]()**                               | Vídeo 30 - Demo: Never                               |
 | **[Vídeo 31]()**                               | Vídeo 31 - Object                                    |
