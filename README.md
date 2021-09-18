@@ -94,8 +94,6 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - Demo 2.12
 - 2.13 - Object
   - Demo 2.13
-- 2.14 - Algumas observações do uso do ‘let’
- - Demo 2.14
 </details>
 
 <details><summary><b>Módulo 3: Fluxos de Controle</b></summary>
