@@ -33,5 +33,3 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 30]()**                               | Vídeo 30 - Demo: Never                               |
 | **[Vídeo 31]()**                               | Vídeo 31 - Object                                    |
 | **[Vídeo 32]()**                               | Vídeo 32 - Demo: Object                              |
-| **[Vídeo 33]()**                               | Vídeo 33 - Algumas observações do uso do ‘let’       |
-| **[Vídeo 34]()**                               | Vídeo 34 - Demo: Algumas observações do uso do ‘let’ |
