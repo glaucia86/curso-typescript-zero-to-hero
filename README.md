@@ -88,7 +88,7 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - Demo 2.12
 - 2.13 - Object
   - Demo 2.13
-</details>
+  </details>
 
 <details><summary><b>Módulo 3: Fluxos de Controle</b></summary>
 
@@ -101,10 +101,6 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 - 3.4 - Condicional while
   - Demo 3.4
 - 3.5 - Condicional do...while
-  - Demo 3.5
-- 3.6 - break
-  - Demo 3.6
-- 3.7 - continue - Demo 3.7
 </details>
 
 <details><summary><b>Módulo 4: Funções/Functions </b></summary>

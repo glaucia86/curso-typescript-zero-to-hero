@@ -33,4 +33,4 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 30](https://youtu.be/ZJt15H_MKLc)**   | Vídeo 30 - Demo: Never              |
 | **[Vídeo 31](https://youtu.be/SoZeG6p_Ass)**   | Vídeo 31 - Object                   |
 | **[Vídeo 32](https://youtu.be/0cxJ1RQ7Gv0)**   | Vídeo 32 - Demo: Object - Parte 01  |
-| **[Vídeo 33](https://youtu.be/WNp44xb1M_s)**   | Vídeo 32 - Demo: Object - Parte 02  |
+| **[Vídeo 33](https://youtu.be/WNp44xb1M_s)**   | Vídeo 33 - Demo: Object - Parte 02  |
