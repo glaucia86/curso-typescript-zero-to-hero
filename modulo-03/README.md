@@ -14,5 +14,3 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 39]()**                             | Vídeo 39 - Demo: For           |
 | **[Vídeo 40]()**                             | Vídeo 40 - While               |
 | **[Vídeo 41]()**                             | Vídeo 41 - Demo: While         |
-| **[Vídeo 42]()**                             | Vídeo 42 - Do...while          |
-| **[Vídeo 43]()**                             | Vídeo 43 - Demo: Do...while    |

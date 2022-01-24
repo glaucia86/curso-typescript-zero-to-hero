@@ -100,7 +100,6 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - Demo 3.3
 - 3.4 - Condicional while
   - Demo 3.4
-- 3.5 - Condicional do...while
 </details>
 
 <details><summary><b>Módulo 4: Funções/Functions </b></summary>
