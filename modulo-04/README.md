@@ -6,8 +6,8 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 
 | Vídeo Aula | Descrição |
 |---|---|
-| **[Vídeo 01]()** | Vídeo 01 -  |
-| **[Vídeo 02]()** | Vídeo 02 -  |
+| **[Vídeo 42]()** | Vídeo 01 - Intro à Funções  |
+| **[Vídeo 43]()** | Vídeo 02 - Demo - Funções  |
 | **[Vídeo 03]()** | Vídeo 03 -  |
 | **[Vídeo 04]()** | Vídeo 04 -  |
 | **[Vídeo 05]()** | Vídeo 05 -  |
