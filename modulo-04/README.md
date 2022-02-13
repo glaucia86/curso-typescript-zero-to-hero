@@ -1,4 +1,4 @@
-# Módulo 4: Funções/Functions   
+# Módulo 4: Funções/Functions
 
 Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o módulo 04.
 
