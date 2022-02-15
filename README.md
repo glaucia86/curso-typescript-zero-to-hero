@@ -106,21 +106,20 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 
 - 4.1 - Introdução à Funções/Functions
   - Demo 4.1
-- 4.2 - Tipos de Funções
+- 4.2 - Optional Parameters
   - Demo 4.2
-- 4.3 - Optional Parameters
+- 4.3 - Default Parameters
   - Demo 4.3
-- 4.4 - Default Parameters
+- 4.4 - Rest Parameters
   - Demo 4.4
-- 4.5 - Rest Parameters
+- 4.5 - Uso do ‘this’ e Arrow Functions
   - Demo 4.5
-- 4.6 - Uso do ‘this’ e Arrow Functions
+- 4.6 - this Parameters
   - Demo 4.6
-- 4.7 - this Parameters
+- 4.7 - this Parameters em Callbacks
   - Demo 4.7
-- 4.8 - this Parameters em Callbacks
+- 4.8 - Function Overloadings
   - Demo 4.8
-- 4.9 - Function Overloadings - Demo 4.9
 </details>
 
 <details><summary><b>Módulo 5: Classes</b></summary>
