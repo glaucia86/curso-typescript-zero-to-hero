@@ -12,5 +12,5 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 45](https://youtu.be/8lkQjfuif8c)** | Vídeo 45 - Demo: Optional Parameters |
 | **[Vídeo 46](https://youtu.be/zbnwyJybtPg)** | Vídeo 46 - Default Parameters |
 | **[Vídeo 47]()** | Vídeo 47 - Demo: Default Parameters  |
-| **[Vídeo 48]()** | Vídeo 48 - Rest Parameters |
+| **[Vídeo 48](https://youtu.be/GdxGQA8ppk0)** | Vídeo 48 - Rest Parameters |
 | **[Vídeo 49]()** | Vídeo 49 - Demo: Rest Parameters |
