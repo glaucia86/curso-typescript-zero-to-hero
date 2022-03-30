@@ -1,4 +1,4 @@
-# Módulo 6: Classes    
+# Módulo 6: Enum
 
 Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o módulo 06.
 

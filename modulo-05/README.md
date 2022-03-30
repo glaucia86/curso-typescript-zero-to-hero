@@ -1,6 +1,6 @@
-# Módulo 6: Enum     
+# Módulo 5: Classes
 
-Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o módulo 06.
+Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o módulo 05.
 
 ## 💻 Série de Vídeos
 
