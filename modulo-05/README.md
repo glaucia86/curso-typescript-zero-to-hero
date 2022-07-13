@@ -4,6 +4,7 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 
 ## 💻 Série de Vídeos
 
+<<<<<<< HEAD
 | Vídeo Aula                                   | Descrição                                               |
 | -------------------------------------------- | ------------------------------------------------------- |
 | **[Vídeo 50](https://youtu.be/7W3PNpoCB40)** | Vídeo 50 - Intro à Classes                              |
@@ -16,3 +17,4 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 57]()**                             | Vídeo 57 -                                              |
 | **[Vídeo 58]()**                             | Vídeo 58 -                                              |
 | **[Vídeo 59]()**                             | Vídeo 59 -                                              |
+
