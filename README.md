@@ -142,7 +142,8 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - Demo 5.8
 - 5.9 - Constructor Functions
   - Demo 5.9
-- 5.10 - Usando classes como Interfaces - Demo 5.10
+- 5.10 - Usando classes como Interfaces 
+  - Demo 5.10
 </details>
 
 <details><summary><b>Módulo 6: Enum</b></summary>
