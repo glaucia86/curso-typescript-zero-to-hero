@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /**
  * arquivo: inheritance.ts
  * descrição: arquivo responsável por ensinar como heranças no TypeScript
