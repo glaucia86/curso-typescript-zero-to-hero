@@ -12,8 +12,10 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 53](https://youtu.be/1Nq2gE5Bzpo)** | Vídeo 53 - Demo: Modificadores de Acesso           |
 | **[Vídeo 54](https://youtu.be/tTuiHXKW9v4)** | Vídeo 54 - Modificadores de Acesso: readonly       |
 | **[Vídeo 55](https://youtu.be/kHzkhKMNyEI)** | Vídeo 55 - Demo: Modificadores de Acesso: readonly |
-| **[Vídeo 56]()**                             | Vídeo 56 -                                         |
-| **[Vídeo 57]()**                             | Vídeo 57 -                                         |
-| **[Vídeo 58]()**                             | Vídeo 58 -                                         |
-| **[Vídeo 59]()**                             | Vídeo 59 -                                         |
+| **[Vídeo 56](https://youtu.be/5cKzzP4CeKM)** | Vídeo 56 - Uso de Getters & Setters                |
+| **[Vídeo 57](https://youtu.be/AFYCxTnVQbM)** | Vídeo 57 - Demo - Uso de Getters & Setters         |
+| **[Vídeo 58](https://youtu.be/GawUXUjgrG8)** | Vídeo 58 - Herança                                 |
+| **[Vídeo 59]()**                             | Vídeo 59 - Demo - Herança                          |
+| **[Vídeo 60]()**                             | Vídeo 60 -                                         |
+| **[Vídeo 61]()**                             | Vídeo 61 -                                         |
 
