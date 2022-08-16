@@ -16,8 +16,8 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 57](https://youtu.be/AFYCxTnVQbM)** | Vídeo 57 - Demo - Uso de Getters & Setters         |
 | **[Vídeo 58](https://youtu.be/GawUXUjgrG8)** | Vídeo 58 - Herança                                 |
 | **[Vídeo 59](https://youtu.be/v3X3vk2YGvI)** | Vídeo 59 - Demo - Herança                          |
-| **[Vídeo 60]()**                             | Vídeo 60 -                                         |
-| **[Vídeo 61]()**                             | Vídeo 61 -                                         |
+| **[Vídeo 60](https://youtu.be/vqhjXC19_WI)** | Vídeo 60 -                                         |
+| **[Vídeo 61](https://youtu.be/uHy4vhX3LRA)** | Vídeo 61 -                                         |
 | **[Vídeo 62]()**                             | Vídeo 62 -                                         |
 | **[Vídeo 63]()**                             | Vídeo 63 -                                         |
 
