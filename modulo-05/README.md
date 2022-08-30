@@ -20,5 +20,7 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 61](https://youtu.be/uHy4vhX3LRA)** | Vídeo 61 -                                         |
 | **[Vídeo 62]()**                             | Vídeo 62 -                                         |
 | **[Vídeo 63]()**                             | Vídeo 63 -                                         |
+| **[Vídeo 64]()**                             | Vídeo 64 -                                         |
+| **[Vídeo 65]()**                             | Vídeo 65 -                                         |
 
 
