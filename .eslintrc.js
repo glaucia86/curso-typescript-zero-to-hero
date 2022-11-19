@@ -22,5 +22,6 @@ module.exports = {
   plugins: ['@typescript-eslint'],
   rules: {
     '@typescript-eslint/no-empty-function': 'off',
+    'prettier/prettier': ['off', { singleQuote: true }],
   },
 };
