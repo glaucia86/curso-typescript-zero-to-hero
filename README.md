@@ -148,7 +148,7 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - 6.1.4 - Function Types
   - 6.1.5 - Class Types
     - Demo 6.1
-- 6.2 - Extensão de Interfaces
+- 6.2 - Herança em Interfaces
   - 6.2.1 - Herança de Uma Interface
   - 6.2.2 - Herança Múltipla de Interfaces
   - 6.2.3 - Herança de Interfaces
