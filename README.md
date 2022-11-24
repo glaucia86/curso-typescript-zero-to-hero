@@ -132,46 +132,47 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - Demo 5.3
 - 5.4 - Uso dos Getters & Setters
   - Demo 5.4
-- 5.5 - Heranças
+- 5.5 - Herança
   - Demo 5.5
-- 5.6 - Métodos estáticos & Propriedades
+- 5.6 - Métodos & Propriedades estáticas
   - Demo 5.6
 - 5.7 - Classes Abstratas
   - Demo 5.7
-- 5.8 - Técnicas Avançadas
-  - Demo 5.8
-- 5.9 - Constructor Functions
-  - Demo 5.9
-- 5.10 - Usando classes como Interfaces 
-  - Demo 5.10
 </details>
 
-<details><summary><b>Módulo 6: Enum</b></summary>
+<details><summary><b>Módulo 6: Interfaces</b></summary>
 
-- 6.1 - Enums Numéricos
-  - Demo 6.1
-- 6.2 - Enums String
-  - Demo 6.2
-- 6.3 - Enums Heterogêneos
-  - Demo 6.3
-- 6.4 - Union Enums e Enum member Types - Demo 6.4
+- 6.1 - Introdução à Interfaces
+  - 6.1.2 - Optional Properties
+  - 6.1.3 - Propriedades Readonly
+  - 6.1.4 - Function Types
+  - 6.1.5 - Class Types
+    - Demo 6.1
+- 6.2 - Extensão de Interfaces
+  - 6.2.1 - Herança de Uma Interface
+  - 6.2.2 - Herança Múltipla de Interfaces
+  - 6.2.3 - Herança de Interfaces
+    - Demo 6.2
 </details>
 
-<details><summary><b>Módulo 7: Interfaces</b></summary>
+<details><summary><b>Módulo 7: Tipos Avançados & Novos Operadores</b></summary>
 
-- 7.1 - Introdução à Interfaces
+- 7.1 - Intersection Types
   - Demo 7.1
-- 7.2 - Optional Properties
+- 7.2 - Union Types
   - Demo 7.2
-- 7.3 - Propriedades Readonly
+- 7.3 - Type Guards
   - Demo 7.3
-- 7.4 - readonly vs const
+- 7.4 - Type Casting
   - Demo 7.4
-- 7.5 - Class Types
+- 7.5 - Type Assertions
   - Demo 7.5
-- 7.6 - Hybrid Types
+- 7.6 - Conditional Types
   - Demo 7.6
-- 7.7 - Extendendo Interfaces de Classes - Demo 7.7
+- 7.7 - Mapped Types
+  - Demo 7.7
+- 7.8 - Satisfies Operator
+  - Demo 7.8
 </details>
 
 <details><summary><b>Módulo 8: Generics</b></summary>
@@ -190,7 +191,8 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - Demo 8.6
 - 8.7 - Usando Type Parameters em Generics
   - Demo 8.7
-- 8.8 - Usando Class Types em Generics - Demo 8.8
+- 8.8 - Usando Class Types em Generics
+  - Demo 8.8
 </details>
 
 <details><summary><b>Módulo 9: Módulos</b></summary>
