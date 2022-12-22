@@ -6,9 +6,9 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 
 | Vídeo Aula       | Descrição  |
 | ---------------- | ---------- |
-| **[Vídeo 68]()** | Vídeo 01 - |
-| **[Vídeo 69]()** | Vídeo 02 - |
-| **[Vídeo 70]()** | Vídeo 03 - |
-| **[Vídeo 71]()** | Vídeo 04 - |
-| **[Vídeo 72]()** | Vídeo 05 - |
-| **[Vídeo 73]()** | Vídeo 06 - |
+| **[Vídeo 68]()** | Vídeo 68 - |
+| **[Vídeo 69]()** | Vídeo 69 - |
+| **[Vídeo 70]()** | Vídeo 70 - |
+| **[Vídeo 71]()** | Vídeo 71 - |
+| **[Vídeo 72]()** | Vídeo 72 - |
+| **[Vídeo 73]()** | Vídeo 73 - |
