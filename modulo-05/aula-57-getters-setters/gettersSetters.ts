@@ -75,7 +75,7 @@ const estudante_01 = new Estudante_01('Glaucia Lemos', 5, 'Sistema da Informaç�
 console.log(estudante_01);
 
 // Setter call
-estudante_01.curso = 'Análise e Desenvolvimento de Sistemas';
+estudante_01.cursos = 'Análise e Desenvolvimento de Sistemas';
 
 // Getter call
 console.log('Curso atualizado...:', estudante_01.cursos)
