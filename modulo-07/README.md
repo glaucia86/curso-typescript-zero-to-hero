@@ -15,6 +15,8 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 74](https://youtu.be/A5SOxUAOCIQ)** | Vídeo 74 - Type Assertions          |
 | **[Vídeo 75](https://youtu.be/B0ByaF7x184)** | Vídeo 75 - Demo: Type Assertions    |
 | **[Vídeo 76](https://youtu.be/nBhTRUHMgng)** | Vídeo 76 - Conditional Types        |
-| **[Vídeo 77]()**                             | Vídeo 77 - Demo: Conditional Types  |
-| **[Vídeo 78]()**                             | Vídeo 78 - Mapped Types             |
-| **[Vídeo 79]()**                             | Vídeo 79 - Demo: Mapped Types       |
+| **[Vídeo 77](https://youtu.be/vCNV9gu75Ic)** | Vídeo 77 - Demo: Conditional Types  |
+| **[Vídeo 78](https://youtu.be/eztQedVNdY0)** | Vídeo 78 - Mapped Types             |
+| **[Vídeo 79](https://youtu.be/ih1t6eKSh24)** | Vídeo 79 - Demo: Mapped Types       |
+| **[Vídeo 80]()**                             | Vídeo 80 - Demo: Mapped Types       |
+| **[Vídeo 81]()**                             | Vídeo 81 - Demo: Mapped Types       |
