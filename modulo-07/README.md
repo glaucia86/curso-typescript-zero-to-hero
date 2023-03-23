@@ -18,5 +18,5 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 77](https://youtu.be/vCNV9gu75Ic)** | Vídeo 77 - Demo: Conditional Types  |
 | **[Vídeo 78](https://youtu.be/eztQedVNdY0)** | Vídeo 78 - Mapped Types             |
 | **[Vídeo 79](https://youtu.be/ih1t6eKSh24)** | Vídeo 79 - Demo: Mapped Types       |
-| **[Vídeo 80]()**                             | Vídeo 80 - Demo: Mapped Types       |
-| **[Vídeo 81]()**                             | Vídeo 81 - Demo: Mapped Types       |
+| **[Vídeo 80](https://youtu.be/nSKE7Vhh11A)** | Vídeo 80 - Satisfies Operator       |
+| **[Vídeo 81](https://youtu.be/wRdvq7UodjQ)** | Vídeo 81 - Demo: Satisfies Operator |
