@@ -56,3 +56,4 @@ const funcionario = new Funcionario('Glaucia', 'Lemos', 'Developer Advocate');
 console.log(funcionario.apresentarPessoa());
 console.log(funcionario.retornarNomeCompleto());
 console.log(funcionario.retornarNome_02());
+
