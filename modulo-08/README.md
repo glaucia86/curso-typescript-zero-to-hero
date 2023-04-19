@@ -12,7 +12,5 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 85](https://youtu.be/pyEMVwE-vSI)** | Vídeo 85 - Demo: Generics Constraints  |
 | **[Vídeo 86](https://youtu.be/qmjuwfIfB-I)** | Vídeo 86 - Generic Classes             |
 | **[Vídeo 87](https://youtu.be/MyrmU5sAh8Y)** | Vídeo 87 - Demo: Generic Classes       |
-| **[Vídeo 88]()**                             | Vídeo 88 -                             |
-| **[Vídeo 89]()**                             | Vídeo 89 -                             |
-| **[Vídeo 90]()**                             | Vídeo 90 -                             |
-| **[Vídeo 91]()**                             | Vídeo 91 -                             |
+| **[Vídeo 88](https://youtu.be/YNEuj-rfXnk)** | Vídeo 88 - Generics Interfaces         |
+| **[Vídeo 89](https://youtu.be/sZWejDFIJVY)** | Vídeo 89 - Demo: Generics Interfaces   |

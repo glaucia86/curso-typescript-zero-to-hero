@@ -189,10 +189,6 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
   - Demo 8.5
 - 8.6 - Generic Interfaces
   - Demo 8.6
-- 8.7 - Usando Type Parameters em Generics
-  - Demo 8.7
-- 8.8 - Usando Class Types em Generics
-  - Demo 8.8
 </details>
 
 <details><summary><b>Módulo 9: Módulos</b></summary>
