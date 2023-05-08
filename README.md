@@ -193,15 +193,11 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 
 <details><summary><b>Módulo 9: Módulos</b></summary>
 
-- 9.1 - Introdução à Modules no Typescript
-  - Demo 9.1
-- 9.2 - Usando Function Modules
-  - Demo 9.2
-- 9.3 - Default Exports
-  - Demo 9.3
-- 9.4 - Class Modules
-  - Demo 9.4
-- 9.5 - Usando aliases Class Modules em - TypeScript - Demo 9.5
+- 9.1 - Introdução à Modules no Typescript (todos os tópicos abaixo já numa única aula)
+  - 9.1.2 - Usando Function Modules
+  - 9.1.3 - Default Exports
+  - 9.1.4 - Class Modules
+  - 9.1.5 - Usando aliases Class Modules em TypeScript
 </details>
 
 <details><summary><b> Módulo 10: TypeScript em Node.js</b></summary>
