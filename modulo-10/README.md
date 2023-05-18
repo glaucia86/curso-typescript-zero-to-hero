@@ -4,11 +4,6 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 
 ## 💻 Série de Vídeos
 
-| Vídeo Aula       | Descrição  |
-| ---------------- | ---------- |
-| **[Vídeo 01]()** | Vídeo 01 - |
-| **[Vídeo 02]()** | Vídeo 02 - |
-| **[Vídeo 03]()** | Vídeo 03 - |
-| **[Vídeo 04]()** | Vídeo 04 - |
-| **[Vídeo 05]()** | Vídeo 05 - |
-| **[Vídeo 06]()** | Vídeo 06 - |
+| Vídeo Aula                                   | Descrição                                     |
+| -------------------------------------------- | --------------------------------------------- |
+| **[Vídeo 92](https://youtu.be/bz2PeVJUgyM)** | Vídeo 92 - Projeto: TypeScript com Express.js |

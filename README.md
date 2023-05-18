@@ -202,9 +202,13 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 
 <details><summary><b> Módulo 10: TypeScript em Node.js</b></summary>
 
-- 10.1 - Como podemos usar o Node.js com TypeScript
+- 10.1 - Como podemos usar o Node.js com TypeScript + Express.Js
   - Demo 10.1
-- 10.2 - Workshop – Criando uma API usando TypeScript & Azure Functions (Serverless) persistindo no Azure CosmosDB
+</details>
+
+<details><summary><b> Extras: Pós finalização do curso!</b></summary>
+
+- 11.1 -
 </details>
 
 ## ❗️ Links & Recursos Importantes
@@ -219,5 +223,3 @@ Nesse ponto, pedirei paciência a todas as pessoas. Mas, estarei divulgando novo
 ## ❓ Tenho Dúvidas... O que Faço?!
 
 Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/curso-typescript-zero-to-hero/issues)**. Assim que possível, estaremos respondendo a todas as dúvidas que tiverem!
-
-**(documentação em desenvolvimento)**
